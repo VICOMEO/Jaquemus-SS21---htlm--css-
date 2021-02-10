@@ -1,0 +1,35 @@
+
+body {
+font-family: Helvetica, Arial, sans-serif;
+}
+
+ul {
+list-style:none;
+
+}
+a{
+color: #a369d5;
+text-decoration: none;
+border-bottom:1px solid #a369d5;
+}
+.pictures {
+margin: 10px auto;
+width: 900px;
+}
+.pictures li {
+display: inline;
+margin: 3px;
+
+}
+
+#text-block {
+width: 550px;
+margin-left: 20px;
+}
+
+#top-line {
+    width: 100%
+    heigth: 5 px ;
+    background color: #000;
+
+}
